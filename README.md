@@ -10,7 +10,7 @@ A PyTorch implementation of "***Vectorization of Raster Manga by Deep Reinforcem
 }
 ```
 
-<div align=center><img src="https://github.com/SwordHolderSH/Mang2Vec/blob/main/image/main.jpg" width="1000" />
+<div align=center><img src="https://github.com/SwordHolderSH/Mang2Vec/blob/main/image/main.jpg" width="1000" /></div>
 
 ## Prerequisites
  
