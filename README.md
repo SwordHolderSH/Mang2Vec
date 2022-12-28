@@ -36,7 +36,7 @@ A PyTorch implementation of "***Vectorization of Raster Manga by Deep Reinforcem
     cd Mang2Vec
 ```
 * Install PyTorch and other dependencies.
-* Download ```act.pkl``` from [Google Drive](https://drive.google.com/file/d/1NFyUiP0FcJ6HxK3eB2w2yPmQoz2xeNFN/view?usp=share_link) to path ```'./model/'```.
+* Download ```actor.pkl``` from [Google Drive](https://drive.google.com/file/d/1NFyUiP0FcJ6HxK3eB2w2yPmQoz2xeNFN/view?usp=share_link) to path ```'./model/'```.
 
 ### Quick Start
 * Get detailed information about all parameters using
