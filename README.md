@@ -12,6 +12,13 @@ A PyTorch implementation of "***Vectorization of Raster Manga by Deep Reinforcem
 
 <div align=center><img src="https://github.com/SwordHolderSH/Mang2Vec/blob/main/image/main.jpg" width="1000" /></div>
 
+## Demos
+
+<div align=center><img src="https://github.com/SwordHolderSH/Mang2Vec/blob/main/image/demo1.jpg" width="1000" /></div>
+<div align=center><img src="https://github.com/SwordHolderSH/Mang2Vec/blob/main/image/demo2.jpg" width="1000" /></div>
+<div align=center><img src="https://github.com/SwordHolderSH/Mang2Vec/blob/main/image/demo3.jpg" width="1000" /></div>
+
+
 ## Prerequisites
  
  * Linux or Windows
