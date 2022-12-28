@@ -11,3 +11,27 @@ A PyTorch implementation of "***Vectorization of Raster Manga by Deep Reinforcem
 ```
 
 <div align=center><img src="https://github.com/SwordHolderSH/Mang2Vec/blob/main/image/main.jpg" width="1000" />
+
+## Prerequisites
+ 
+ * Linux or Windows
+ * CPU or NVIDIA GPU + CUDA CuDNN
+ * Python 3
+ * Pytorch 1.7.0
+
+## Getting Started
+
+### Installation
+
+* Clone this repo:
+```
+    git clone https://github.com/SwordHolderSH/Mang2Vec.git
+    cd Mang2Vec
+```
+* Install PyTorch and other dependencies.
+* Download act.pkl to './model/'
+
+### Quick Start
+```
+    python main.py -h
+```
