@@ -47,3 +47,4 @@ A PyTorch implementation of "***Vectorization of Raster Manga by Deep Reinforcem
 ```
     python main.py --img=./image/Naruto.png --actor=./model/actor.pkl  --max_step=40 --divide=32
 ```
+Thanks for the reference codes of [ICCV2019-LearningToPaint](https://github.com/megvii-research/ICCV2019-LearningToPaint):
