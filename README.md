@@ -2,6 +2,16 @@
 A PyTorch implementation of "***Vectorization of Raster Manga by Deep Reinforcement Learning***".
  If the paper or code is useful for your research, please cite
 ```
+ @article{su2023marvel,
+  title={MARVEL: Raster Gray-level Manga Vectorization via Primitive-wise Deep Reinforcement Learning},
+  author={Su, Hao and Liu, Xuefeng and Niu, Jianwei and Cui, Jiahe and Wan, Ji and Wu, Xinghao and Wang, Nana},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology},
+  year={2023},
+  publisher={IEEE}
+}
+```
+or
+```
 @article{su2021vectorization,
   title={Vectorization of Raster Manga by Deep Reinforcement Learning},
   author={Su, Hao and Niu, Jianwei and Liu, Xuefeng and Cui, Jiahe and Wan, Ji},
