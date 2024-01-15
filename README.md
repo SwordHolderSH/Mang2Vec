@@ -1,5 +1,5 @@
-# Mang2Vec: Vectorization of Raster Manga by Primitive-based Deep Reinforcement Learning
-A PyTorch implementation of "***Vectorization of Raster Manga by Deep Reinforcement Learning***".
+# MARVEL: Raster Gray-level Manga Vectorization via Primitive-wise Deep Reinforcement Learning
+A PyTorch implementation of "***MARVEL: Raster Gray-level Manga Vectorization via Primitive-wise Deep Reinforcement Learning***".
  If the paper or code is useful for your research, please cite
 ```
  @article{su2023marvel,
